@@ -7,6 +7,9 @@ package com.mycompany.latihan18.programtunjangan;
 /**
  *
  * @author lenovo
+ Nama:Elsa Febiana
+ NIM:22205010
+ Prodi:Teknik Informatika
  */
 public class Latihan18Programtunjangan {
 
